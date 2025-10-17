@@ -1,6 +1,9 @@
 {%- for entry in paginator.posts -%}
-  {% include entry.html %}
+  {% unless entry.hidden %}
+    {% include entry.html %}
+  {% endunless %}
 {%- endfor -%}
+
 
 <!-- Pagination links -->
 {% if paginator.total_pages > 1 %}

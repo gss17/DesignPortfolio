@@ -1,4 +1,6 @@
 ---
+layout: post
+hidden: true
 title: "Markup: Text Alignment and Transformations"
 categories:
   - Markup

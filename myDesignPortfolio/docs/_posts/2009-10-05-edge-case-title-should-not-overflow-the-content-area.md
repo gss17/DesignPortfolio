@@ -1,5 +1,7 @@
 ---
+layout: post
 title: "Antidisestablishmentarianism"
+hidden: true
 categories:
   - Edge Case
 tags:

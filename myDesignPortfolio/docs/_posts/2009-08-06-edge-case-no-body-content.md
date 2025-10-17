@@ -1,4 +1,6 @@
 ---
+layout: post
+hidden: true
 title: "Edge Case: No Body Content"
 excerpt: "This post has no body content and should be blank on the post's page."
 categories:

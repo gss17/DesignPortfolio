@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "Dragster Design Optimization"
-hidden: true
+date: 2024-01-01
 last_modified_at:
 image:
-  path: /docs/images/originaldragster.png
-  thumbnail: /docs/images/originaldragster.png
+  path: /docs/images/combinedDrag.png
+  thumbnail: /docs/images/combinedDrag.png
   caption: "SolidWorks render of a dragster."
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Spartan Helmet"
-hidden: true
+date: 2025-01-09
 last_modified_at:
 image:
   path: /docs/images/spartan1.png

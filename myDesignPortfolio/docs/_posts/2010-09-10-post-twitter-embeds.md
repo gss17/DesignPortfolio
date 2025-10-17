@@ -1,4 +1,6 @@
 ---
+layout: post
+hidden: true
 title: "Post: Twitter Embed"
 categories:
   - Media

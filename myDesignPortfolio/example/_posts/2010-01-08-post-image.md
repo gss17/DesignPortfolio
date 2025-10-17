@@ -1,4 +1,6 @@
 ---
+layout: post
+hidden: true
 title: "Post: Image"
 image: /images/so-simple-sample-image-3.jpg
 categories:

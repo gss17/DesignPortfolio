@@ -1,4 +1,6 @@
 ---
+layout: post
+hidden: true
 title: "Layout: Excerpt (Generated with Separator Tag)"
 excerpt_separator: "<!--more-->"
 categories:

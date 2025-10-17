@@ -1,4 +1,6 @@
 ---
+layout: post
+hidden: true
 title: "Post: Modified Date"
 categories:
   - Post Formats

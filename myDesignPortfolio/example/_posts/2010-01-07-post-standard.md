@@ -1,4 +1,6 @@
 ---
+layout: post
+hidden: true
 title: "Post: Standard"
 excerpt_separator: "<!--more-->"
 categories:

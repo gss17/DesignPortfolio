@@ -22,7 +22,7 @@ title: "So Simple"
 description: "A simple Jekyll theme for words and pictures."
 baseurl: "/so-simple-theme"
 url: "https://mmistakes.github.io"
-logo: "/images/so-simple-site-logo.png"
+logo: "/docs/images/griffinschultz.jpg"
 date_format: "%B %-d, %Y"
 read_time: true
 words_per_minute: # 200
@@ -109,12 +109,12 @@ defaults:
 
 # Site Author
 author:
-  name: Michael Rose
+  name: Griffin Schultz
   picture: /images/michael-rose-photo.jpg
   email:
   twitter: mmistakes
   links:
-    - title: Twitter
+    - title: LinkedIn
       url: https://twitter.com/mmistakes
       icon: fab fa-twitter-square
     - title: Instagram

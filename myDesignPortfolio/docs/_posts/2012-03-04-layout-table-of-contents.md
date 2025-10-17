@@ -1,4 +1,6 @@
 ---
+layout: post
+hidden: true
 title: "Layout: Post with Table Of Contents"
 category: Layout
 tags:

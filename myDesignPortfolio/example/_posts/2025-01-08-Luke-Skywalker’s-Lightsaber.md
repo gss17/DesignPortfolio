@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Luke Skywalker’s Lightsaber"
-hidden: true
+date: 2025-01-08
 last_modified_at:
 image:
   path: /docs/images/lightsaber.png

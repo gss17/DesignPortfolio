@@ -1,4 +1,6 @@
 ---
+layout: post
+hidden: true
 title: "Markup: Title with Special&nbsp;---&nbsp;Characters"
 categories:
   - Markup

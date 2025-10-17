@@ -1,4 +1,6 @@
 ---
+layout: post
+hidden: true
 title: "Markup: Title *with* **Markdown**"
 categories:
   - Markdown

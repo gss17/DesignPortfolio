@@ -1,4 +1,6 @@
 ---
+layout: post
+hidden: true
 categories:
   - Edge Case
 tags:

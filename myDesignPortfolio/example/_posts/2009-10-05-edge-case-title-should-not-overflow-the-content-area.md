@@ -1,4 +1,6 @@
 ---
+layout: post
+hidden: true
 title: "Antidisestablishmentarianism"
 categories:
   - Edge Case

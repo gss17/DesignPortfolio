@@ -1,4 +1,6 @@
 ---
+layout: post
+hidden: true
 title: "Layout: Hero Image"
 image: 
   path: /images/so-simple-sample-image-3.jpg

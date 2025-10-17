@@ -1,4 +1,6 @@
 ---
+layout: post
+hidden: true
 title: "Post: Quote"
 categories:
   - Post Formats

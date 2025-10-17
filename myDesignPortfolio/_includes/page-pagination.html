@@ -1,18 +1,46 @@
+
+{% assign all_posts = site.posts %}
+{% for coll in site.collections %}
+  {% if coll.label != "posts" %}
+    {% assign all_posts = all_posts | concat: coll.docs %}
+  {% endif %}
+{% endfor %}
+
+{% assign visible_posts = all_posts | where_exp: "p", "p.hidden != true" %}
+
+{% assign index = nil %}
+{% for post in visible_posts %}
+  {% if post.url == page.url %}
+    {% assign index = forloop.index0 %}
+  {% endif %}
+{% endfor %}
+
+{% assign prev_index = index | minus: 1 %}
+{% assign next_index = index | plus: 1 %}
+{% assign prev_post = visible_posts[prev_index] %}
+{% assign next_post = visible_posts[next_index] %}
+
 <nav class="page-pagination" role="navigation">
-  {% if page.previous %}
-    <a class="page-previous" href="{{ page.previous.url | relative_url }}">
-      <h4 class="page-pagination-label">{{ site.data.text[site.locale].previous | default: 'Previous' }}</h4>
+  {% if prev_post %}
+    <a class="page-previous" href="{{ prev_post.url | relative_url }}">
+      <h4 class="page-pagination-label">
+        {{ site.data.text[site.locale].previous | default: 'Previous' }}
+      </h4>
       <span class="page-pagination-title">
-        <i class="fas fa-arrow-left"></i> {{ page.previous.title | markdownify | strip_html }}
+        <i class="fas fa-arrow-left"></i>
+        {{ prev_post.title | markdownify | strip_html }}
       </span>
     </a>
   {% endif %}
 
-  {% if page.next %}
-    <a class="page-next" href="{{ page.next.url | relative_url }}">
-      <h4 class="page-pagination-label">{{ site.data.text[site.locale].next | default: 'Next' }}</h4>
+  {% if next_post %}
+    <a class="page-next" href="{{ next_post.url | relative_url }}">
+      <h4 class="page-pagination-label">
+        {{ site.data.text[site.locale].next | default: 'Next' }}
+      </h4>
       <span class="page-pagination-title">
-        {{ page.next.title | markdownify | strip_html }} <i class="fas fa-arrow-right"></i>
+        {{ next_post.title | markdownify | strip_html }}
+        <i class="fas fa-arrow-right"></i>
       </span>
     </a>
   {% endif %}

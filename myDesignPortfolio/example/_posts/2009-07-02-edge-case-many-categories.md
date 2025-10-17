@@ -1,4 +1,6 @@
 ---
+layout: post
+hidden: true
 title: "Edge Case: Many Categories"
 categories:
   - aciform
