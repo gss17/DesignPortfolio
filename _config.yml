@@ -103,3 +103,11 @@ footer_links:
   - title: LinkedIn
     url: https://www.linkedin.com/in/griffin-schultz-770b12185/
     icon: fab fa-linkedin
+exclude:
+  - CHANGELOG.md
+  - README.md
+  - README-OLD.md
+  - Rakefile
+  - package.json
+  - package-lock.json
+  - node_modules
