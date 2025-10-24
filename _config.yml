@@ -9,7 +9,7 @@ remote_theme: "mmistakes/so-simple-theme"
 skin: "/assets/css/skins/default.css"
 locale: en-US
 title: "Griffin Schultz Design Portfolio"
-description: "Welcome to my design portfolio — a showcase of CAD, simulation, and fabrication projects demonstrating my skills in SolidWorks, FEA analysis, and product design."
+description: "Welcome to my design portfolio — a showcase of CAD, simulation, and fabrication projects demonstrating my skills in SolidWorks, FEA analysis, and product design. Click on the title of each design to see more!"
 
 # GitHub Pages settings
 url: "https://gss17.github.io"   # Your GitHub Pages root

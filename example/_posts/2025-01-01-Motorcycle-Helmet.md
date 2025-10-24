@@ -2,6 +2,7 @@
 layout: post
 title: "Motorcycle Helmet"
 date: 2025-01-01
+hidden: true
 last_modified_at:
 image: 
   path: /docs/images/bikehelmet.png
