@@ -13,7 +13,7 @@ description: "Welcome to my design portfolio — a showcase of CAD, simulation, 
 
 # GitHub Pages settings
 url: "https://gss17.github.io"   # Your GitHub Pages root
-baseurl: "/myDesignJekyll"       # Repo name — must start with a slash
+baseurl: "/DesignPortfolio"       # Repo name — must start with a slash
 
 logo:                            # Optional: path to site logo, e.g. "/images/logo.png"
 date_format: "%Y"
