@@ -8,7 +8,7 @@ image:
   thumbnail: /docs/images/golfball.png
   caption: "SolidWorks render of a golfball"
 ---
-A custom golf ball modeled with a core, mantle, and outer shell, using composite and polymer materials. Performed finite element analysis to evaluate energy absorption and deformation across each layer. This study explored how different materials and wall thicknesses affect compression and rebound performance. My report can be seen below:
+A custom golf ball modeled with a core, mantle, and outer shell, using composite materials. Performed finite element analysis to evaluate energy absorption and deformation across each layer. This study explored how materials and wall thicknesses affect performance. My report can be seen below:
 
 The goal of this study was to analyze how a three-layer golf ball responds to a static compressive load of 200 N using SolidWorks Simulation. The model was built with three distinct layers: a polybutadiene core, a polyurethane mantle, and an outer shell made of cross-linked polyethylene (XLPE). These materials were chosen to mirror the elasticity, strength, and durability found in real golf balls. The geometry was carefully defined, with a core radius of 36 mm, a mantle radius of 38.5 mm, and an outer shell radius of 42.67 mm. Each layer was bonded to the next to allow smooth stress transfer and prevent delamination under load.
 
