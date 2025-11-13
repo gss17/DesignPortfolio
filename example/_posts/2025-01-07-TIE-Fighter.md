@@ -4,7 +4,7 @@ title: "TIE-Fighter"
 date: 2025-01-07
 last_modified_at:
 image: 
-  path: /docs/images/tie fighter2.png
+  path: /docs/images/tie fighter1.png
   thumbnail: /docs/images/tie fighter1.png
   caption: "SolidWorks render of TIE-Fighter."
 
