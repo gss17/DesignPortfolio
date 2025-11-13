@@ -1,14 +1,13 @@
 ---
 layout: post
-title: "Golf club"
+title: "TIE-Fighter"
 date: 2025-01-07
 last_modified_at:
 image: 
-  path: /docs/images/club.png
-  thumbnail: /docs/images/club.png
-  caption: "SolidWorks render of golf iron."
+  path: /docs/images/tie fighter2.png
+  thumbnail: /docs/images/tie fighter1.png
+  caption: "SolidWorks render of TIE-Fighter."
 
 ---
 
-Modeled a golf iron club head from scratch, focusing on loft angle, face curvature, and weight distribution. Developed a detailed, production-ready CAD model to visualize materials and surface transitions.
-
+Developed a detailed CAD model of the iconic Star Wars TIE Fighter, featuring precise proportions and refined surface geometry. The design highlights advanced surface modeling and symmetry control techniques, resulting in a highly accurate and visually realistic final model complete with authentic materials and color finishes.
