@@ -1,7 +1,4 @@
 ---
-
-
-
 layout: post
 title: "Leaf Spring FEA"
 date: 2026-11-17
