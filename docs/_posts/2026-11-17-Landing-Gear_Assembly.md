@@ -4,7 +4,7 @@ title: "Trailing-Link Landing Gear Assembly"
 date: 2026-11-17
 hidden: false
 image:
-  path: /docs/images/landinggear.png
+  path: 
   thumbnail: /docs/images/landinggear.png
   caption: "FEA of Leaf Spring Landing Gear"
 ---
